@@ -1,7 +1,7 @@
 ﻿namespace Home_task_1
 {
     internal class Program
-    {
+    {////Вітаю. Перше завдання по створенню репозиторію Ви виконали.
         static void Print(int[,] matrix, int n, int m)
         {
             for (int i = 0; i < n; i++)
